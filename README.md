@@ -13,7 +13,7 @@
    
 2. 解压后修改目录下的 `setting.json`，格式为 `uid cookie`
    
-3. 直接运行 main.exe
+3. 直接运行 `LuoguMsgPopup.exe`
 
 ### 自己部署
 
